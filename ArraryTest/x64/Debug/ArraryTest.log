@@ -1,0 +1,5 @@
+﻿  ArraryTest.cpp
+C:\Users\jiho9\source\repos\CTest2\ArraryTest\ArraryTest.cpp(57,2): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+C:\Users\jiho9\source\repos\CTest2\ArraryTest\ArraryTest.cpp(6,12): warning C4101: 'k' :참조되지 않은 지역 변수입니다.
+C:\Users\jiho9\source\repos\CTest2\ArraryTest\ArraryTest.cpp(6,9): warning C4101: 'j' :참조되지 않은 지역 변수입니다.
+  ArraryTest.vcxproj -> C:\Users\jiho9\source\repos\CTest2\x64\Debug\ArraryTest.exe
