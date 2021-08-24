@@ -269,25 +269,25 @@
 //	return 0;
 //
 //}
-//
-//int main()  // 무한 20단
-//{
-//	int x, i;
-//	while (1)
-//	{
-//		printf("몇 단을 검색하시겠습니까 ? ");
-//		scanf("%d", &x);
-//		for (i = 1; i <= 20; i++)
-//		{
-//			printf(" %2d  x  %2d =  %6d\n", x, i, x * i);
-//		}
-//		if (x == 0)
-//		{
-//			break;
-//		}
-//	}
-//	return 0;
-//}
+
+int main()  // 무한 20단
+{
+	int x, i;
+	while (1)
+	{
+		printf("몇 단을 검색하시겠습니까 ? ");
+		scanf("%d", &x);
+		for (i = 1; i <= 20; i++)
+		{
+			printf(" %2d  x  %2d =  %6d\n", x, i, x * i);
+		}
+		if (x == 0)
+		{
+			break;
+		}
+	}
+	return 0;
+}
 
 
 
