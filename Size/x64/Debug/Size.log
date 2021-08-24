@@ -1,0 +1,3 @@
+﻿  Size.cpp
+C:\Users\jiho9\source\repos\CTest2\Size\Size.cpp(279,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Size.vcxproj -> C:\Users\jiho9\source\repos\CTest2\x64\Debug\Size.exe
